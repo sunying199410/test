@@ -1,7 +1,6 @@
 this is a test txt;
 aaaaaaaaaa
 bbbbbbbbbb
-cccccccccc
 dddddddddd
 eeeeeeeeee
 ffffffffff
